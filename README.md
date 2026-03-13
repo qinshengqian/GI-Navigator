@@ -1,5 +1,9 @@
+<div align="center">
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qinshengqian.GI-Navigator)
 [![GitHub Repo stars](https://img.shields.io/github/stars/qinshengqian/GI-Navigator?style=social)](https://github.com/qinshengqian/GI-Navigator/stargazers) 
+
+</div>
 
 <h1 style="text-align: center;">GI-Navigator: an Agentic System throughout Patient-journey of Gastrointestinal Cancer</h1>
 
