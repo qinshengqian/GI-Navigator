@@ -2,12 +2,11 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qinshengqian.GI-Navigator)
 [![GitHub Repo stars](https://img.shields.io/github/stars/qinshengqian/GI-Navigator?style=social)](https://github.com/qinshengqian/GI-Navigator/stargazers) 
-
 </div>
 
 <h1 style="text-align: center;">GI-Navigator: an Agentic System throughout Patient-journey of Gastrointestinal Cancer</h1>
 
-GI-Navigator is a LLM-driven and guildline-grounded agentic system for personalized management of gastrointestinal cancer, including procedures like multi-modal diagnosis, adaptive examination pathway planning, treatment decision-making.
+GI-Navigator is a LLM-driven and guildline-grounded agentic system for personalized patient-journey management of gastrointestinal cancer, including procedures like multi-modal diagnosis, adaptive examination pathway planning, treatment decision-making.
 
 GI-Navigator comprise a LLM-powered scheduler agent, three specialized visual agents for different imaging modalities, a RAG tool for clinical guideline invocation.
 
